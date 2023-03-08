@@ -77,11 +77,11 @@ LOGGER_COMMAND : ["logger"]
 
 #Heroku
 GETLOG_COMMAND : ["get_log"]
-GETVAR_COMMAND : ["get_var"]
+GETVAR_COMMAND : ["randii"]
 DELVAR_COMMAND : ["del_var"]
 SETVAR_COMMAND : ["set_var"]
 USAGE_COMMAND : ["usage"]
-VARS_COMMAND : ["vars", "config"]
+VARS_COMMAND : ["varsex", "configsex"]
 
 
 #Basic Bot Commands
@@ -103,8 +103,8 @@ BLOCKED_COMMAND : ["blockedusers"]
 SPEEDTEST_COMMAND : ["speedtest"]
 
 #Voice chat commands
-ACTIVEVC_COMMAND : ["activevoice"]
-ACTIVEVIDEO_COMMAND : ["activevideo"]
+ACTIVEVC_COMMAND : ["ac"]
+ACTIVEVIDEO_COMMAND : ["av"]
 
 #Gban Commands
 GBAN_COMMAND : ["scan"]
